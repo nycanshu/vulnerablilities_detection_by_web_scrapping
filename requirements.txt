@@ -1,0 +1,7 @@
+#download these packages before running the script
+
+# use this command to install all packages 
+# pip install -r requirements.txt
+
+requests==2.31.0
+beautifulsoup4==4.12.0
